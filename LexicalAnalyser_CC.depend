@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611335148 source:c:\users\imran khan\desktop\labsdsa\lexicalanalyser_cc\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
